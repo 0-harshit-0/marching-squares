@@ -1,2 +1,3 @@
 # marching-squares
-cave and game map generation using marching square and perlin noise
+
+Marching squares is a computer graphics algorithm that generates contours for a two-dimensional scalar field.
